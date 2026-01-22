@@ -8,11 +8,11 @@
   },
   "site": {
     "title": "rishabhsarin18-ui",
-    "description": "Developer Portfolio",
+    "description": "Content Writer Portfolio",
     "seo": {
-      "title": "rishabhsarin18-ui - Developer Portfolio",
-      "description": "Developer Portfolio of rishabhsarin18-ui",
-      "keywords": "developer, portfolio, github",
+      "title": "rishabhsarin18-ui - Writer Portfolio",
+      "description": "Content Portflio of rishabhsarin18-ui",
+      "keywords": "Content, portfolio, github",
       "author": "rishabhsarin18-ui",
       "og_image": "https://avatars.githubusercontent.com/rishabhsarin18-ui",
       "twitter_card": "summary_large_image",
@@ -21,7 +21,7 @@
   },
   "header": {
     "greeting": "rishabhsarin18-ui",
-    "tagline": "Developer and Creator."
+    "tagline": "Content Writer."
   },
   "social_links": [
     {
@@ -34,8 +34,8 @@
   "github_username": "rishabhsarin18-ui",
   "about": {
     "paragraphs": [
-      "Welcome to my portfolio! I'm passionate about creating amazing digital experiences and solving complex problems through code.",
-      "This portfolio showcases my journey, projects, and skills. Feel free to explore and get in touch if you'd like to collaborate!"
+      "With over 5+ years of experience in content writing, I've pretty much dated every content format out there, be it long form blogs, articles, landing pages and Ebooks to short snappy taglines, product descriptions and ad-copy",
+      "I like to start by listening a lot, understanding what an organization actually needs, and then turning those ideas into content that dosen't just fill space. It makes an impact!"
     ]
   },
   "projects": {
